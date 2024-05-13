@@ -17,5 +17,5 @@ body{
     background: linear-gradient(to left , #61616188 0%, #36393abe 100%);
 }
 h1{
-    font-size: larger;
+    font-size: calc(15px + 0.5vw);
 }
