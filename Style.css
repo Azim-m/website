@@ -9,6 +9,7 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
+
 }
 body{
     height: 30vh;
@@ -20,8 +21,10 @@ body{
     flex-direction: column;
     font-family: embed;
     font-size: large;
-    color: rgb(0, 0, 0);
     background: linear-gradient(to left , #8a8a8a88 0%, #36393abe 100%);
+}
+a{
+    color: black;
 }
 button{
     width: 10%;
@@ -31,6 +34,7 @@ button{
     border-radius: 20px;
     background-color: rgb(255, 255, 255);
     border: none;
+    color: black;
 
 }
 .scale{
